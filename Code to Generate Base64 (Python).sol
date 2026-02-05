@@ -9,6 +9,6 @@ def get_base64(text):
 print(get_base64("Hello World")) 
 # Output: SGVsbG8gV29ybGQ=
 # Output: SGVsbG8gV29ybGQ=
-# Output: SGVsbG8gV29ybGQ=
+
 
 
