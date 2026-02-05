@@ -10,3 +10,5 @@ print(get_base64("Hello World"))
 # Output: SGVsbG8gV29ybGQ=
 # Output: SGVsbG8gV29ybGQ=
 # Output: SGVsbG8gV29ybGQ=
+# Output: SGVsbG8gV29ybGQ=
+# Output: SGVsbG8gV29ybGQ=
